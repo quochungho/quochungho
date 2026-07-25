@@ -9,7 +9,7 @@ Based in Ho Chi Minh City, I am actively looking for internship/fresher opportun
 - 🌱 Deepening my knowledge in **Deep Learning, NLP, and Computer Vision**.
 - 👯 Looking to collaborate on open-source AI projects or Kaggle competitions.
 - 💬 Ask me about: **Algorithms, Data Structures, Python, and ML basics.**
-- 📫 Connect with me: hungquoc0202  | https://www.linkedin.com/in/h%C6%B0ng-h%E1%BB%93-qu%E1%BB%91c-1b6284336/
+- 📫 Connect with me: hungquoc0202@gmail.com  | https://www.linkedin.com/in/h%C6%B0ng-h%E1%BB%93-qu%E1%BB%91c-1b6284336/
 
 **🛠️ My Tech Stack:**
 *   **Languages:** Python, C++, SQL
