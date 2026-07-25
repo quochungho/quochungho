@@ -18,4 +18,4 @@ Based in Ho Chi Minh City, I am actively looking for internship/fresher opportun
 *   **Databases:** MySQL, PostgreSQL, MongoDB
 
 ---
-*(Bạn có thể chèn thêm biểu đồ GitHub Stats hoặc WakaTime ở đây để khoe thời lượng code)*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quochungho&layout=compact&theme=radical)
