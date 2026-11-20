@@ -113,29 +113,6 @@ AI / LLM Engineer internship and fresher roles
 
 </p>
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="180" />
-</p>
-
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=quochungho&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=quochungho&theme=tokyo-night&hide_border=true&area=true" />
-
-</p>
-
 <!-- Footer -->
 
 <p align="center">
