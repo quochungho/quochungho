@@ -1,55 +1,65 @@
 ### Hi there, I'm Quoc Hung! 👋
 
-I am a Computer Science student at the **University of Information Technology (UIT - VNUHCM)** with a strong mathematical foundation and a deep passion for Artificial Intelligence. I am currently focusing on Machine Learning and Data Science, aiming to build intelligent systems that solve real-world problems. 
+**AI Engineer · Agentic Systems & LLM Applications**
+Computer Science student at the **University of Information Technology (UIT – VNUHCM)**, building AI agents and LLM-powered tools for an in-house IT team in Ho Chi Minh City.
 
-Based in Ho Chi Minh City, I am actively looking for internship/fresher opportunities to apply my knowledge and grow as an **AI/ML Engineer** or **Data Scientist**.
+I like taking agents from "cool demo" to something people use every day: chatbots that answer real support tickets, workflows that run on their own, and the tooling that keeps coding agents reliable.
 
-**🤖 What I'm up to:**
-- 🔭 Building end-to-end Machine Learning pipelines and predictive models.
-- 🌱 Deepening my knowledge in **Deep Learning, NLP, and Computer Vision**.
-- 👯 Looking to collaborate on open-source AI projects or Kaggle competitions.
-- 💬 Ask me about: **Algorithms, Data Structures, Python, and ML basics.**
-- 📫 Connect with me: hungquoc0202@gmail.com  | https://www.linkedin.com/in/h%C6%B0ng-h%E1%BB%93-qu%E1%BB%91c-1b6284336/
+**🤖 What I'm working on**
+- 💬 **Internal IT support chatbot on Microsoft Teams**: RAG over internal docs and device configs, secret redaction, Dockerized deployment.
+- 🧠 **Agentic AI platform**: self-hosted Dify / CrewAI on cloud VMs, long-term agent memory, NOC/ops assistants.
+- 🛠️ **Agent harness engineering**: custom hooks, skills and guardrails for Claude Code and Codex. Benchmarking agent harnesses and loops (Ralph loop, Strands, DeepSeek harness).
+- 🔍 **Reading the internals** of open-source agent frameworks (Dify, LangGraph, Graphon) and turning them into architecture docs and diagrams.
 
-**🛠️ My Tech Stack:**
-*   **Languages:** Python, C++, SQL
-*   **AI/ML/Data:** TensorFlow / PyTorch, Scikit-learn, Pandas, NumPy, OpenCV
-*   **Tools & MLOps:** Git, Docker, Jupyter, Google Colab
-*   **Databases:** MySQL, PostgreSQL, MongoDB
+**🌱 Currently improving**
+- LLM evaluation and observability: measuring answer quality, latency and token cost.
+- Shipping to production properly: CI, testing, secret management.
+
+**📫 Reach me:** hungquoc0202@gmail.com · [LinkedIn](https://www.linkedin.com/in/h%C6%B0ng-h%E1%BB%93-qu%E1%BB%91c-1b6284336/)
+Open to **AI Engineer / LLM Engineer** internship and fresher roles.
 
 ---
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
-**Core Languages**  
+**Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bash/Shell](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-**Deep Learning & Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+**LLM & Agent Frameworks**
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Dify](https://img.shields.io/badge/Dify-1677FF?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
 
-**Data Science & Visualization**  
+**AI Coding Agents**
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**ML Foundations**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-**Databases & Big Data**  
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-
-**MLOps, Deployment & Tools**  
+**Backend, Data & Deployment**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+---
+### 📌 Featured Projects
+| Project | What it does | Stack |
+|---|---|---|
+| [Support Chatbot](https://github.com/[username]/[repo]) | Internal IT helpdesk bot on MS Teams | Python · RAG · Docker · Teams |
+| [Agentic AI Platform](https://github.com/[username]/[repo]) | Self-hosted agent platform + memory | Dify · CrewAI · VM |
+| [Agent Harness](https://github.com/[username]/[repo]) | Hooks, skills & guardrails for coding agents | Python · Claude Code |
